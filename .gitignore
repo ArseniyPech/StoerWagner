@@ -1,0 +1,9 @@
+main
+test
+*.o
+
+*.out
+*.exe
+*.log
+
+build/
